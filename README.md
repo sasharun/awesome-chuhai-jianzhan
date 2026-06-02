@@ -59,7 +59,7 @@
 - [BigCommerce](https://www.bigcommerce.com/) — 面向中大型卖家的 SaaS 电商平台,开放 API、无交易抽佣,适合多渠道出海。
 - [WooCommerce](https://woocommerce.com/) — WordPress 官方电商插件,开源可控、插件丰富,自建独立站的高自由度方案。
 - [Webflow](https://webflow.com/) — 可视化拖拽建站,设计自由度高,适合品牌营销站与轻量电商。
-- 🌟 如果你需要的不是模板拼装,而是性能、SEO 与可维护性更强的**定制独立站 / 询盘站**,可以看我的作品集【https://你的域名】或直接联系我聊需求。
+- 🌟 如果你需要的不是模板拼装,而是性能、SEO 与可维护性更强的**定制独立站 / 询盘站**,可以看我的作品集 https://gavinsolo.com 或直接联系我聊需求。
 
 ## 🛠️ 建站技术栈与部署
 
