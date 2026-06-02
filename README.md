@@ -18,7 +18,7 @@
 - 🈺 多语言 / 多市场本地化(i18n、多货币)
 - 🚀 Vercel / Cloudflare / 服务器部署与域名解析、CDN 加速
 
-> 📧 邮箱: xqi圈live.com　💬 微信:gav1nq　🌐 作品集/案例:【https://gavinsolo.com】
+> 📧 邮箱: xqi圈live.com　💬 微信:gav1nq　🌐 作品集/案例: https://gavinsolo.com
 
 下面是我整理的精选资源,长期更新,欢迎 Star ⭐ / PR。
 
@@ -261,6 +261,6 @@ KOL / 微网红的真实内容与 UGC,是建立海外信任、提升转化的重
 
 如果你正在做品牌出海、DTC 或工厂出海,需要一个性能好、利于 SEO、支持多语言与海外支付的独立站,欢迎找我聊聊。我用 **Next.js** 做交付,重质量、重可维护。
 
-> 📧 邮箱:xqi圈live.com　💬 微信:gav1nq　🌐 作品集/案例:【https://gavinsolo.com】
+> 📧 邮箱:xqi圈live.com　💬 微信:gav1nq　🌐 作品集/案例: https://gavinsolo.com
 
 如果这份清单对你有帮助,欢迎 Star ⭐ 支持,也欢迎 PR 一起完善。
