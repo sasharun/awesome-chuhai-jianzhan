@@ -8,7 +8,7 @@
 
 ## 📮 关于 & 建站服务
 
-我是 ** Gavin **,一名专注外贸出海建站的独立开发者。长期为做品牌出海、DTC 与跨境电商的团队/工厂搭建**外贸独立站、询盘站、工厂官网**,主力技术栈 **Next.js / Java**,熟悉海外支付接入、多语言本地化与 Google SEO。做事风格:重交付、重性能、重可维护,不堆砌花架子。
+我是 **Gavin**,**模酷科技(ModalCube)** 主理人,专注外贸出海建站。长期为做品牌出海、DTC 与跨境电商的团队/工厂搭建**外贸独立站、询盘站、工厂官网**,主力技术栈 **Next.js / Java**,熟悉海外支付接入、多语言本地化与 Google SEO。做事风格:重交付、重性能、重可维护,不堆砌花架子。
 
 **我提供的服务:**
 - 🌐 外贸独立站 / DTC 品牌站搭建(Next.js / Java / Python)
@@ -18,7 +18,7 @@
 - 🈺 多语言 / 多市场本地化(i18n、多货币)
 - 🚀 Vercel / Cloudflare / 服务器部署与域名解析、CDN 加速
 
-> 📧 邮箱: xqi圈live.com　💬 微信:gav1nq　🌐 作品集/案例: https://gavinsolo.com
+> 📧 邮箱: xqi@live.com　💬 微信:gav1nq　🌐 作品集/案例: https://modalcube.com
 
 下面是我整理的精选资源,长期更新,欢迎 Star ⭐ / PR。
 
@@ -59,7 +59,7 @@
 - [BigCommerce](https://www.bigcommerce.com/) — 面向中大型卖家的 SaaS 电商平台,开放 API、无交易抽佣,适合多渠道出海。
 - [WooCommerce](https://woocommerce.com/) — WordPress 官方电商插件,开源可控、插件丰富,自建独立站的高自由度方案。
 - [Webflow](https://webflow.com/) — 可视化拖拽建站,设计自由度高,适合品牌营销站与轻量电商。
-- 🌟 如果你需要的不是模板拼装,而是性能、SEO 与可维护性更强的**定制独立站 / 询盘站**,可以看我的作品集 https://gavinsolo.com 或直接联系我聊需求。
+- 🌟 如果你需要的不是模板拼装,而是性能、SEO 与可维护性更强的**定制独立站 / 询盘站**,可以看我的作品集 https://modalcube.com 或直接联系我聊需求。
 
 ## 🛠️ 建站技术栈与部署
 
@@ -261,6 +261,15 @@ KOL / 微网红的真实内容与 UGC,是建立海外信任、提升转化的重
 
 如果你正在做品牌出海、DTC 或工厂出海,需要一个性能好、利于 SEO、支持多语言与海外支付的独立站,欢迎找我聊聊。我用 **Next.js** 做交付,重质量、重可维护。
 
-> 📧 邮箱:xqi圈live.com　💬 微信:gav1nq　🌐 作品集/案例: https://gavinsolo.com
+> 📧 邮箱:xqi@live.com　💬 微信:gav1nq　🌐 作品集/案例: https://modalcube.com
+
+**📲 想要更系统的品牌出海 / 建站干货?** 扫码关注,新内容持续更新 👇
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><img src="assets/qr-fuwuhao.png" width="170" alt="模酷科技微信"><br><b>模酷科技 · 微信</b><br><sub>建站咨询 · 案例 · 服务对接</sub></td>
+    <td align="center" width="50%"><img src="assets/qr-gongzhonghao.png" width="170" alt="模酷科技服务号"><br><b>模酷科技 · 服务号</b><br><sub>外贸建站 · Google SEO · 出海干货</sub></td>
+  </tr>
+</table>
 
 如果这份清单对你有帮助,欢迎 Star ⭐ 支持,也欢迎 PR 一起完善。
