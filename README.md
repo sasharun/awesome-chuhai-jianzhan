@@ -181,6 +181,7 @@ KOL / 微网红的真实内容与 UGC,是建立海外信任、提升转化的重
 - [OneTrust](https://www.onetrust.com/) — 企业级隐私、同意管理、第三方风险与 AI 治理平台,适合多市场合规要求更高的团队。
 - [GDPR 官方信息站](https://gdpr.eu/) — 欧盟《通用数据保护条例》解读站,了解数据收集与隐私的基本红线。
 - [Termly](https://termly.io/) — 在线生成隐私政策/Cookie 政策/服务条款,适合独立站快速配齐合规文档。
+- [Green Claims Guard](https://apps.shopify.com/green-claims-guard) — Shopify 应用，扫描商品与文案中的绿色营销表述并导出带日期的证据记录。提供 Free 计划，付费从 ¥4,577/月起。
 
 ## 🈺 本地化与多语言
 
