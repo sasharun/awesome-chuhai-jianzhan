@@ -138,6 +138,7 @@ KOL / 微网红的真实内容与 UGC,是建立海外信任、提升转化的重
 - [Upfluence](https://www.upfluence.com/) — 红人发现与合作管理平台,带数据分析与效果追踪。
 - [Modash](https://www.modash.io/) — Instagram/TikTok/YouTube 红人数据库与筛选,适合海外达人开发。
 - [Heepsy](https://www.heepsy.com/) — 红人搜索与受众分析工具,可按地区、粉丝量、真实度筛选。
+- [TKMetrics](https://tkmetrics.com/) — TikTok 创作者数据、话题趋势与收益估算,基于公开数据,适合筛选达人时参考。
 - [Later](https://later.com/) — 社媒内容排期与红人协作工具,适合长期内容运营。
 
 ## 🔍 SEO、数据与增长工具
