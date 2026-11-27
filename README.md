@@ -148,6 +148,7 @@ KOL / 微网红的真实内容与 UGC，是建立海外信任、提升转化的�
 - [Modash](https://www.modash.io/) — Instagram/TikTok/YouTube 红人数据库与筛选，适合海外达人开发。
 - [Heepsy](https://www.heepsy.com/) — 红人搜索与受众分析工具，可按地区、粉丝量、真实度筛选。
 - [TKMetrics](https://tkmetrics.com/) — 基于 TikTok 公开数据的达人粉丝、互动率、话题趋势与收益估算工具，提供免费查询，适合合作前核验账号真实表现。
+- [IGDataHub](https://igdatahub.com/) — 免费查询任意 Instagram 公开账号的粉丝数、互动率与热门帖子，可对比多个红人并导出粉丝列表 CSV，适合合作前核验 Instagram 达人数据。
 - [Later](https://later.com/) — 社媒内容排期与红人协作工具，适合长期内容运营。
 
 ## 🔍 SEO、数据与增长工具
